@@ -1,0 +1,57 @@
+C:\Users\Bruno\Desktop\ProjektOOP\ProjektOOP\bin\Debug\ProjektOOP.exe.config
+C:\Users\Bruno\Desktop\ProjektOOP\ProjektOOP\bin\Debug\ProjektOOP.exe
+C:\Users\Bruno\Desktop\ProjektOOP\ProjektOOP\bin\Debug\ProjektOOP.pdb
+C:\Users\Bruno\Desktop\ProjektOOP\ProjektOOP\bin\Debug\en\ProjektOOP.resources.dll
+C:\Users\Bruno\Desktop\ProjektOOP\ProjektOOP\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Bruno\Desktop\ProjektOOP\ProjektOOP\bin\Debug\RestSharp.dll
+C:\Users\Bruno\Desktop\ProjektOOP\ProjektOOP\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Bruno\Desktop\ProjektOOP\ProjektOOP\bin\Debug\RestSharp.xml
+C:\Users\Bruno\Desktop\ProjektOOP\ProjektOOP\obj\Debug\ProjektOOP.csprojAssemblyReference.cache
+C:\Users\Bruno\Desktop\ProjektOOP\ProjektOOP\obj\Debug\ProjektOOP.Form1.resources
+C:\Users\Bruno\Desktop\ProjektOOP\ProjektOOP\obj\Debug\ProjektOOP.Languages.MyResources.resources
+C:\Users\Bruno\Desktop\ProjektOOP\ProjektOOP\obj\Debug\ProjektOOP.Players.resources
+C:\Users\Bruno\Desktop\ProjektOOP\ProjektOOP\obj\Debug\ProjektOOP.PlayersWomen.resources
+C:\Users\Bruno\Desktop\ProjektOOP\ProjektOOP\obj\Debug\ProjektOOP.Properties.Resources.resources
+C:\Users\Bruno\Desktop\ProjektOOP\ProjektOOP\obj\Debug\ProjektOOP.RangList.resources
+C:\Users\Bruno\Desktop\ProjektOOP\ProjektOOP\obj\Debug\ProjektOOP.RangListWomen.resources
+C:\Users\Bruno\Desktop\ProjektOOP\ProjektOOP\obj\Debug\ProjektOOP.SelectPlayer.resources
+C:\Users\Bruno\Desktop\ProjektOOP\ProjektOOP\obj\Debug\ProjektOOP.SelectPlayersUCWomen.resources
+C:\Users\Bruno\Desktop\ProjektOOP\ProjektOOP\obj\Debug\ProjektOOP.SelectPlayersWomen.resources
+C:\Users\Bruno\Desktop\ProjektOOP\ProjektOOP\obj\Debug\ProjektOOP.SelectPlayerUC.resources
+C:\Users\Bruno\Desktop\ProjektOOP\ProjektOOP\obj\Debug\ProjektOOP.WorldCup2018.resources
+C:\Users\Bruno\Desktop\ProjektOOP\ProjektOOP\obj\Debug\ProjektOOP.WorldCup2019Women.resources
+C:\Users\Bruno\Desktop\ProjektOOP\ProjektOOP\obj\Debug\ProjektOOP.Languages.MyResources.en.resources
+C:\Users\Bruno\Desktop\ProjektOOP\ProjektOOP\obj\Debug\ProjektOOP.csproj.GenerateResource.cache
+C:\Users\Bruno\Desktop\ProjektOOP\ProjektOOP\obj\Debug\en\ProjektOOP.resources.dll
+C:\Users\Bruno\Desktop\ProjektOOP\ProjektOOP\obj\Debug\ProjektOOP.csproj.CopyComplete
+C:\Users\Bruno\Desktop\ProjektOOP\ProjektOOP\obj\Debug\ProjektOOP.exe
+C:\Users\Bruno\Desktop\ProjektOOP\ProjektOOP\obj\Debug\ProjektOOP.pdb
+C:\Users\Bruno\Desktop\USB\Vjezbanje za faks\ProjektOOP\ProjektOOP\bin\Debug\ProjektOOP.exe.config
+C:\Users\Bruno\Desktop\USB\Vjezbanje za faks\ProjektOOP\ProjektOOP\bin\Debug\ProjektOOP.exe
+C:\Users\Bruno\Desktop\USB\Vjezbanje za faks\ProjektOOP\ProjektOOP\bin\Debug\ProjektOOP.pdb
+C:\Users\Bruno\Desktop\USB\Vjezbanje za faks\ProjektOOP\ProjektOOP\bin\Debug\en\ProjektOOP.resources.dll
+C:\Users\Bruno\Desktop\USB\Vjezbanje za faks\ProjektOOP\ProjektOOP\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Bruno\Desktop\USB\Vjezbanje za faks\ProjektOOP\ProjektOOP\bin\Debug\RestSharp.dll
+C:\Users\Bruno\Desktop\USB\Vjezbanje za faks\ProjektOOP\ProjektOOP\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Bruno\Desktop\USB\Vjezbanje za faks\ProjektOOP\ProjektOOP\bin\Debug\RestSharp.xml
+C:\Users\Bruno\Desktop\USB\Vjezbanje za faks\ProjektOOP\ProjektOOP\obj\Debug\ProjektOOP.csproj.AssemblyReference.cache
+C:\Users\Bruno\Desktop\USB\Vjezbanje za faks\ProjektOOP\ProjektOOP\obj\Debug\ProjektOOP.Form1.resources
+C:\Users\Bruno\Desktop\USB\Vjezbanje za faks\ProjektOOP\ProjektOOP\obj\Debug\ProjektOOP.Languages.MyResources.resources
+C:\Users\Bruno\Desktop\USB\Vjezbanje za faks\ProjektOOP\ProjektOOP\obj\Debug\ProjektOOP.Players.resources
+C:\Users\Bruno\Desktop\USB\Vjezbanje za faks\ProjektOOP\ProjektOOP\obj\Debug\ProjektOOP.PlayersWomen.resources
+C:\Users\Bruno\Desktop\USB\Vjezbanje za faks\ProjektOOP\ProjektOOP\obj\Debug\ProjektOOP.Properties.Resources.resources
+C:\Users\Bruno\Desktop\USB\Vjezbanje za faks\ProjektOOP\ProjektOOP\obj\Debug\ProjektOOP.RangList.resources
+C:\Users\Bruno\Desktop\USB\Vjezbanje za faks\ProjektOOP\ProjektOOP\obj\Debug\ProjektOOP.RangListWomen.resources
+C:\Users\Bruno\Desktop\USB\Vjezbanje za faks\ProjektOOP\ProjektOOP\obj\Debug\ProjektOOP.SelectPlayer.resources
+C:\Users\Bruno\Desktop\USB\Vjezbanje za faks\ProjektOOP\ProjektOOP\obj\Debug\ProjektOOP.SelectPlayersUCWomen.resources
+C:\Users\Bruno\Desktop\USB\Vjezbanje za faks\ProjektOOP\ProjektOOP\obj\Debug\ProjektOOP.SelectPlayersWomen.resources
+C:\Users\Bruno\Desktop\USB\Vjezbanje za faks\ProjektOOP\ProjektOOP\obj\Debug\ProjektOOP.SelectPlayerUC.resources
+C:\Users\Bruno\Desktop\USB\Vjezbanje za faks\ProjektOOP\ProjektOOP\obj\Debug\ProjektOOP.WorldCup2018.resources
+C:\Users\Bruno\Desktop\USB\Vjezbanje za faks\ProjektOOP\ProjektOOP\obj\Debug\ProjektOOP.WorldCup2019Women.resources
+C:\Users\Bruno\Desktop\USB\Vjezbanje za faks\ProjektOOP\ProjektOOP\obj\Debug\ProjektOOP.Languages.MyResources.en.resources
+C:\Users\Bruno\Desktop\USB\Vjezbanje za faks\ProjektOOP\ProjektOOP\obj\Debug\ProjektOOP.csproj.GenerateResource.cache
+C:\Users\Bruno\Desktop\USB\Vjezbanje za faks\ProjektOOP\ProjektOOP\obj\Debug\ProjektOOP.csproj.CoreCompileInputs.cache
+C:\Users\Bruno\Desktop\USB\Vjezbanje za faks\ProjektOOP\ProjektOOP\obj\Debug\en\ProjektOOP.resources.dll
+C:\Users\Bruno\Desktop\USB\Vjezbanje za faks\ProjektOOP\ProjektOOP\obj\Debug\ProjektOOP.csproj.CopyComplete
+C:\Users\Bruno\Desktop\USB\Vjezbanje za faks\ProjektOOP\ProjektOOP\obj\Debug\ProjektOOP.exe
+C:\Users\Bruno\Desktop\USB\Vjezbanje za faks\ProjektOOP\ProjektOOP\obj\Debug\ProjektOOP.pdb

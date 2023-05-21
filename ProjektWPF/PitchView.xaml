@@ -1,0 +1,31 @@
+﻿<Window x:Class="ProjektWPF.PitchView"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ProjektWPF"
+        mc:Ignorable="d"
+        Title="PitchView" Height="450" Width="800">
+    <Grid x:Name="grid">
+        <Grid.Background>
+            <ImageBrush ImageSource="/Pictures/Football_pitch_v2.svg.png" Stretch="UniformToFill"/>
+        </Grid.Background>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+
+        <StackPanel x:Name="stackDefHome" Grid.Column="1" VerticalAlignment="Center" HorizontalAlignment="Stretch"  Margin="10"/>
+        <StackPanel x:Name="stackMidHome" Grid.Column="2" VerticalAlignment="Center" HorizontalAlignment="Stretch" Margin="10"/>
+        <StackPanel x:Name="stackFowHome" Grid.Column="3" VerticalAlignment="Center" HorizontalAlignment="Stretch" Margin="10"/>
+        <StackPanel x:Name="stackFowAway" Grid.Column="4" VerticalAlignment="Center" HorizontalAlignment="Stretch" Margin="10"/>
+        <StackPanel x:Name="stackMidAway" Grid.Column="5" VerticalAlignment="Center" HorizontalAlignment="Stretch" Margin="10"/>
+        <StackPanel x:Name="stackDefAway" Grid.Column="6" VerticalAlignment="Center" HorizontalAlignment="Stretch" Margin="10"/>
+    </Grid>
+</Window>

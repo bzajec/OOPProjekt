@@ -1,0 +1,61 @@
+﻿<Window x:Class="ProjektWPF.More"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ProjektWPF"
+        mc:Ignorable="d"
+        Title="More" Height="450" Width="800">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+        </Grid.RowDefinitions>
+        <Grid.Triggers>
+            <EventTrigger RoutedEvent="Loaded">
+                <BeginStoryboard>
+                    <Storyboard Duration="00:00:05" Storyboard.TargetProperty="Opacity">
+                        <DoubleAnimation From="0" To="1"/>
+                    </Storyboard>
+                </BeginStoryboard>
+            </EventTrigger>
+        </Grid.Triggers>
+        <Label x:Name="lbName" FontSize="25" VerticalAlignment="Center" HorizontalAlignment="Center"/>
+        <Label x:Name="countryName" Grid.Column="1" FontSize="25" VerticalAlignment="Center" HorizontalAlignment="Center"/>
+
+        <Label x:Name="lbCode" Grid.Row="1" FontSize="25" VerticalAlignment="Center" HorizontalAlignment="Center"/>
+        <Label x:Name="countryCode" Grid.Column="1" Grid.Row="1" FontSize="25" VerticalAlignment="Center" HorizontalAlignment="Center"/>
+
+        <Label x:Name="lbPlayed" Grid.Row="2" FontSize="25" VerticalAlignment="Center" HorizontalAlignment="Center"/>
+        <Label x:Name="countryPlayed" Grid.Column="1" Grid.Row="2" FontSize="25" VerticalAlignment="Center" HorizontalAlignment="Center"/>
+
+        <Label x:Name="lbWins" Grid.Row="3" FontSize="25" VerticalAlignment="Center" HorizontalAlignment="Center"/>
+        <Label x:Name="countryWins" Grid.Column="1" Grid.Row="3" FontSize="25" VerticalAlignment="Center" HorizontalAlignment="Center"/>
+
+        <Label x:Name="lbLoses" Grid.Row="4" FontSize="25" VerticalAlignment="Center" HorizontalAlignment="Center"/>
+        <Label x:Name="countryLoses" Grid.Column="1" Grid.Row="4" FontSize="25" VerticalAlignment="Center" HorizontalAlignment="Center"/>
+
+        <Label x:Name="lbDraws" Grid.Row="5" FontSize="25" VerticalAlignment="Center" HorizontalAlignment="Center"/>
+        <Label x:Name="countryDraws" Grid.Column="1" Grid.Row="5" FontSize="25" VerticalAlignment="Center" HorizontalAlignment="Center"/>
+
+        <Label x:Name="lbGoalsScored" Grid.Row="6" FontSize="25" VerticalAlignment="Center" HorizontalAlignment="Center"/>
+        <Label x:Name="countryGoalsScored" Grid.Column="1" Grid.Row="6" FontSize="25" VerticalAlignment="Center" HorizontalAlignment="Center"/>
+
+        <Label x:Name="lbGoalsConceded" Grid.Row="7" FontSize="25" VerticalAlignment="Center" HorizontalAlignment="Center"/>
+        <Label x:Name="countryGoalsConceded" Grid.Column="1" Grid.Row="7" FontSize="25" VerticalAlignment="Center" HorizontalAlignment="Center"/>
+
+        <Label x:Name="lbGoalDifference" Grid.Row="8" FontSize="25" VerticalAlignment="Center" HorizontalAlignment="Center"/>
+        <Label x:Name="countryGoalDifference" Grid.Column="1" Grid.Row="8" FontSize="25" VerticalAlignment="Center" HorizontalAlignment="Center"/>
+    </Grid>
+</Window>

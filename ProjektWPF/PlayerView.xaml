@@ -1,0 +1,47 @@
+﻿<Window x:Class="ProjektWPF.PlayerView"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ProjektWPF"
+        mc:Ignorable="d"
+        Title="PlayerView" Height="450" Width="800">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+        </Grid.RowDefinitions>
+
+        <Grid.Triggers>
+            <EventTrigger RoutedEvent="Loaded">
+                <BeginStoryboard>
+                    <Storyboard Duration="00:00:03" Storyboard.TargetProperty="Width">
+                        <DoubleAnimation From="0" To="800"/>
+                    </Storyboard>
+                </BeginStoryboard>
+            </EventTrigger>
+        </Grid.Triggers>
+        <Label x:Name="lbName" FontSize="20"  VerticalAlignment="Center" HorizontalAlignment="Center"/>
+        <Label x:Name="lbNumber" Grid.Row="1" FontSize="20"  VerticalAlignment="Center" HorizontalAlignment="Center"/>
+        <Label x:Name="lbPosition" Grid.Row="2" FontSize="20"  VerticalAlignment="Center" HorizontalAlignment="Center"/>
+        <Label x:Name="lbCaptian" Grid.Row="3" FontSize="20"  VerticalAlignment="Center" HorizontalAlignment="Center"/>
+        <Label x:Name="lbGoals" Grid.Row="4" FontSize="20"  VerticalAlignment="Center" HorizontalAlignment="Center"/>
+        <Label x:Name="lbYellows" Grid.Row="5" FontSize="20"  VerticalAlignment="Center" HorizontalAlignment="Center"/>
+
+        <Label x:Name="playerName" Grid.Row="0" Grid.Column="1" FontSize="20"  VerticalAlignment="Center" HorizontalAlignment="Center"/>
+        <Label x:Name="playerNumber" Grid.Row="1" Grid.Column="1" FontSize="20"  VerticalAlignment="Center" HorizontalAlignment="Center"/>
+        <Label x:Name="playerPosition" Grid.Row="2" Grid.Column="1" FontSize="20"  VerticalAlignment="Center" HorizontalAlignment="Center"/>
+        <Label x:Name="playerCaptain" Grid.Row="3" Grid.Column="1" FontSize="20"  VerticalAlignment="Center" HorizontalAlignment="Center"/>
+        <Label x:Name="playerGoal" Grid.Row="4" Grid.Column="1" FontSize="20"  VerticalAlignment="Center" HorizontalAlignment="Center"/>
+        <Label x:Name="playerYellows" Grid.Row="5" Grid.Column="1" FontSize="20"  VerticalAlignment="Center" HorizontalAlignment="Center"/>
+    </Grid>
+</Window>

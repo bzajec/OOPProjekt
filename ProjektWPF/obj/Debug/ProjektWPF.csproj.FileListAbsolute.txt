@@ -1,0 +1,87 @@
+C:\Users\Bruno\Desktop\ProjektOOP\ProjektWPF\obj\Debug\ProjektWPF.csprojAssemblyReference.cache
+C:\Users\Bruno\Desktop\ProjektOOP\ProjektWPF\obj\Debug\MainWindow.g.cs
+C:\Users\Bruno\Desktop\ProjektOOP\ProjektWPF\obj\Debug\More.g.cs
+C:\Users\Bruno\Desktop\ProjektOOP\ProjektWPF\obj\Debug\MoreWomen.g.cs
+C:\Users\Bruno\Desktop\ProjektOOP\ProjektWPF\obj\Debug\NationChose.g.cs
+C:\Users\Bruno\Desktop\ProjektOOP\ProjektWPF\obj\Debug\NationChoseWomen.g.cs
+C:\Users\Bruno\Desktop\ProjektOOP\ProjektWPF\obj\Debug\PitchView.g.cs
+C:\Users\Bruno\Desktop\ProjektOOP\ProjektWPF\obj\Debug\PitchViewWomen.g.cs
+C:\Users\Bruno\Desktop\ProjektOOP\ProjektWPF\obj\Debug\PlayerView.g.cs
+C:\Users\Bruno\Desktop\ProjektOOP\ProjektWPF\obj\Debug\PlayerViewWomen.g.cs
+C:\Users\Bruno\Desktop\ProjektOOP\ProjektWPF\obj\Debug\App.g.cs
+C:\Users\Bruno\Desktop\ProjektOOP\ProjektWPF\obj\Debug\ProjektWPF_MarkupCompile.cache
+C:\Users\Bruno\Desktop\ProjektOOP\ProjektWPF\obj\Debug\ProjektWPF_MarkupCompile.lref
+C:\Users\Bruno\Desktop\ProjektOOP\ProjektWPF\bin\Debug\ProjektWPF.exe.config
+C:\Users\Bruno\Desktop\ProjektOOP\ProjektWPF\bin\Debug\ProjektWPF.exe
+C:\Users\Bruno\Desktop\ProjektOOP\ProjektWPF\bin\Debug\ProjektWPF.pdb
+C:\Users\Bruno\Desktop\ProjektOOP\ProjektWPF\bin\Debug\en\ProjektWPF.resources.dll
+C:\Users\Bruno\Desktop\ProjektOOP\ProjektWPF\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Bruno\Desktop\ProjektOOP\ProjektWPF\bin\Debug\ProjektOOP.exe
+C:\Users\Bruno\Desktop\ProjektOOP\ProjektWPF\bin\Debug\RestSharp.dll
+C:\Users\Bruno\Desktop\ProjektOOP\ProjektWPF\bin\Debug\ProjektOOP.pdb
+C:\Users\Bruno\Desktop\ProjektOOP\ProjektWPF\bin\Debug\ProjektOOP.exe.config
+C:\Users\Bruno\Desktop\ProjektOOP\ProjektWPF\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Bruno\Desktop\ProjektOOP\ProjektWPF\bin\Debug\RestSharp.xml
+C:\Users\Bruno\Desktop\ProjektOOP\ProjektWPF\bin\Debug\en\ProjektOOP.resources.dll
+C:\Users\Bruno\Desktop\ProjektOOP\ProjektWPF\obj\Debug\MainWindow.baml
+C:\Users\Bruno\Desktop\ProjektOOP\ProjektWPF\obj\Debug\More.baml
+C:\Users\Bruno\Desktop\ProjektOOP\ProjektWPF\obj\Debug\MoreWomen.baml
+C:\Users\Bruno\Desktop\ProjektOOP\ProjektWPF\obj\Debug\NationChose.baml
+C:\Users\Bruno\Desktop\ProjektOOP\ProjektWPF\obj\Debug\NationChoseWomen.baml
+C:\Users\Bruno\Desktop\ProjektOOP\ProjektWPF\obj\Debug\PitchView.baml
+C:\Users\Bruno\Desktop\ProjektOOP\ProjektWPF\obj\Debug\PitchViewWomen.baml
+C:\Users\Bruno\Desktop\ProjektOOP\ProjektWPF\obj\Debug\PlayerView.baml
+C:\Users\Bruno\Desktop\ProjektOOP\ProjektWPF\obj\Debug\PlayerViewWomen.baml
+C:\Users\Bruno\Desktop\ProjektOOP\ProjektWPF\obj\Debug\ProjektWPF.g.resources
+C:\Users\Bruno\Desktop\ProjektOOP\ProjektWPF\obj\Debug\ProjektWPF.Languages.MyResources.resources
+C:\Users\Bruno\Desktop\ProjektOOP\ProjektWPF\obj\Debug\ProjektWPF.Properties.Resources.resources
+C:\Users\Bruno\Desktop\ProjektOOP\ProjektWPF\obj\Debug\ProjektWPF.Languages.MyResources.en.resources
+C:\Users\Bruno\Desktop\ProjektOOP\ProjektWPF\obj\Debug\ProjektWPF.csproj.GenerateResource.cache
+C:\Users\Bruno\Desktop\ProjektOOP\ProjektWPF\obj\Debug\en\ProjektWPF.resources.dll
+C:\Users\Bruno\Desktop\ProjektOOP\ProjektWPF\obj\Debug\ProjektWPF.csproj.CopyComplete
+C:\Users\Bruno\Desktop\ProjektOOP\ProjektWPF\obj\Debug\ProjektWPF.exe
+C:\Users\Bruno\Desktop\ProjektOOP\ProjektWPF\obj\Debug\ProjektWPF.pdb
+C:\Users\Bruno\Desktop\USB\Vjezbanje za faks\ProjektOOP\ProjektWPF\bin\Debug\ProjektWPF.exe.config
+C:\Users\Bruno\Desktop\USB\Vjezbanje za faks\ProjektOOP\ProjektWPF\bin\Debug\ProjektWPF.exe
+C:\Users\Bruno\Desktop\USB\Vjezbanje za faks\ProjektOOP\ProjektWPF\bin\Debug\ProjektWPF.pdb
+C:\Users\Bruno\Desktop\USB\Vjezbanje za faks\ProjektOOP\ProjektWPF\bin\Debug\en\ProjektWPF.resources.dll
+C:\Users\Bruno\Desktop\USB\Vjezbanje za faks\ProjektOOP\ProjektWPF\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Bruno\Desktop\USB\Vjezbanje za faks\ProjektOOP\ProjektWPF\bin\Debug\ProjektOOP.exe
+C:\Users\Bruno\Desktop\USB\Vjezbanje za faks\ProjektOOP\ProjektWPF\bin\Debug\RestSharp.dll
+C:\Users\Bruno\Desktop\USB\Vjezbanje za faks\ProjektOOP\ProjektWPF\bin\Debug\ProjektOOP.pdb
+C:\Users\Bruno\Desktop\USB\Vjezbanje za faks\ProjektOOP\ProjektWPF\bin\Debug\ProjektOOP.exe.config
+C:\Users\Bruno\Desktop\USB\Vjezbanje za faks\ProjektOOP\ProjektWPF\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Bruno\Desktop\USB\Vjezbanje za faks\ProjektOOP\ProjektWPF\bin\Debug\RestSharp.xml
+C:\Users\Bruno\Desktop\USB\Vjezbanje za faks\ProjektOOP\ProjektWPF\bin\Debug\en\ProjektOOP.resources.dll
+C:\Users\Bruno\Desktop\USB\Vjezbanje za faks\ProjektOOP\ProjektWPF\obj\Debug\ProjektWPF.csproj.AssemblyReference.cache
+C:\Users\Bruno\Desktop\USB\Vjezbanje za faks\ProjektOOP\ProjektWPF\obj\Debug\MainWindow.g.cs
+C:\Users\Bruno\Desktop\USB\Vjezbanje za faks\ProjektOOP\ProjektWPF\obj\Debug\More.g.cs
+C:\Users\Bruno\Desktop\USB\Vjezbanje za faks\ProjektOOP\ProjektWPF\obj\Debug\MoreWomen.g.cs
+C:\Users\Bruno\Desktop\USB\Vjezbanje za faks\ProjektOOP\ProjektWPF\obj\Debug\NationChose.g.cs
+C:\Users\Bruno\Desktop\USB\Vjezbanje za faks\ProjektOOP\ProjektWPF\obj\Debug\NationChoseWomen.g.cs
+C:\Users\Bruno\Desktop\USB\Vjezbanje za faks\ProjektOOP\ProjektWPF\obj\Debug\PitchView.g.cs
+C:\Users\Bruno\Desktop\USB\Vjezbanje za faks\ProjektOOP\ProjektWPF\obj\Debug\PitchViewWomen.g.cs
+C:\Users\Bruno\Desktop\USB\Vjezbanje za faks\ProjektOOP\ProjektWPF\obj\Debug\PlayerView.g.cs
+C:\Users\Bruno\Desktop\USB\Vjezbanje za faks\ProjektOOP\ProjektWPF\obj\Debug\PlayerViewWomen.g.cs
+C:\Users\Bruno\Desktop\USB\Vjezbanje za faks\ProjektOOP\ProjektWPF\obj\Debug\App.g.cs
+C:\Users\Bruno\Desktop\USB\Vjezbanje za faks\ProjektOOP\ProjektWPF\obj\Debug\ProjektWPF_MarkupCompile.cache
+C:\Users\Bruno\Desktop\USB\Vjezbanje za faks\ProjektOOP\ProjektWPF\obj\Debug\ProjektWPF_MarkupCompile.lref
+C:\Users\Bruno\Desktop\USB\Vjezbanje za faks\ProjektOOP\ProjektWPF\obj\Debug\MainWindow.baml
+C:\Users\Bruno\Desktop\USB\Vjezbanje za faks\ProjektOOP\ProjektWPF\obj\Debug\More.baml
+C:\Users\Bruno\Desktop\USB\Vjezbanje za faks\ProjektOOP\ProjektWPF\obj\Debug\MoreWomen.baml
+C:\Users\Bruno\Desktop\USB\Vjezbanje za faks\ProjektOOP\ProjektWPF\obj\Debug\NationChose.baml
+C:\Users\Bruno\Desktop\USB\Vjezbanje za faks\ProjektOOP\ProjektWPF\obj\Debug\NationChoseWomen.baml
+C:\Users\Bruno\Desktop\USB\Vjezbanje za faks\ProjektOOP\ProjektWPF\obj\Debug\PitchView.baml
+C:\Users\Bruno\Desktop\USB\Vjezbanje za faks\ProjektOOP\ProjektWPF\obj\Debug\PitchViewWomen.baml
+C:\Users\Bruno\Desktop\USB\Vjezbanje za faks\ProjektOOP\ProjektWPF\obj\Debug\PlayerView.baml
+C:\Users\Bruno\Desktop\USB\Vjezbanje za faks\ProjektOOP\ProjektWPF\obj\Debug\PlayerViewWomen.baml
+C:\Users\Bruno\Desktop\USB\Vjezbanje za faks\ProjektOOP\ProjektWPF\obj\Debug\ProjektWPF.g.resources
+C:\Users\Bruno\Desktop\USB\Vjezbanje za faks\ProjektOOP\ProjektWPF\obj\Debug\ProjektWPF.Languages.MyResources.resources
+C:\Users\Bruno\Desktop\USB\Vjezbanje za faks\ProjektOOP\ProjektWPF\obj\Debug\ProjektWPF.Properties.Resources.resources
+C:\Users\Bruno\Desktop\USB\Vjezbanje za faks\ProjektOOP\ProjektWPF\obj\Debug\ProjektWPF.Languages.MyResources.en.resources
+C:\Users\Bruno\Desktop\USB\Vjezbanje za faks\ProjektOOP\ProjektWPF\obj\Debug\ProjektWPF.csproj.GenerateResource.cache
+C:\Users\Bruno\Desktop\USB\Vjezbanje za faks\ProjektOOP\ProjektWPF\obj\Debug\ProjektWPF.csproj.CoreCompileInputs.cache
+C:\Users\Bruno\Desktop\USB\Vjezbanje za faks\ProjektOOP\ProjektWPF\obj\Debug\en\ProjektWPF.resources.dll
+C:\Users\Bruno\Desktop\USB\Vjezbanje za faks\ProjektOOP\ProjektWPF\obj\Debug\ProjektWPF.csproj.CopyComplete
+C:\Users\Bruno\Desktop\USB\Vjezbanje za faks\ProjektOOP\ProjektWPF\obj\Debug\ProjektWPF.exe
+C:\Users\Bruno\Desktop\USB\Vjezbanje za faks\ProjektOOP\ProjektWPF\obj\Debug\ProjektWPF.pdb
